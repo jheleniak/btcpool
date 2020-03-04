@@ -16,7 +16,7 @@ apt-get install -y default-jre
 ```
 mkdir /root/source
 cd /root/source
-wget https://mirrors.tuna.tsinghua.edu.cn/apache/kafka/0.11.0.2/kafka_2.11-0.11.0.2.tgz
+wget https://archive.apache.org/dist/kafka/0.11.0.2/kafka_2.11-0.11.0.2.tgz
  
 mkdir -p /work/kafka
 cd /work/kafka
